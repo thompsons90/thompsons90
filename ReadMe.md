@@ -4,6 +4,6 @@
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-Thanks for visiting! <img src="https://camo.githubusercontent.com/a0773c6a39597d4d177250e6cf1eb59e7a80147764ea130afeb59c0f492631e4/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d6e617468616e31333838382d76697369746f722d62616467652d72656c6f6164656426636f6c6f723d373739424537266c636f6c6f723d267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d776869746526637573746f6d3d434e54253230566965777326746578743d26636f6c6f723d6666666666662663616368653d6f6e" alt="" data-canonical-src="visitor-badge-reloaded.herokuapp.com/badge?page_id=90056149" style="max-width: 100%;">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${thompsons90})
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thompsons90&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thompsons90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
