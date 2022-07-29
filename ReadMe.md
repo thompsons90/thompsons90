@@ -13,7 +13,7 @@ I am a growth-focused, ambitious web developer with a passion for learning and t
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thompsons90&repo=nazwood-millworks&theme=tokyonight)](https://github.com/thompsons90/Nazwood-millworks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=storrence88&repo=favorite-flix&theme=tokyonight)](https://github.com/storrence88/favorite-flix) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clintonmyers&repo=fcc-mock-restaurant-ui&theme=tokyonight)](https://github.com/clintonmyers/fcc-mock-restaurant-ui) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thompsons90&repo=Clint-API-Three&theme=tokyonight)](https://github.com/thompsons90/Clint-API-Three)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thompsons90&repo=newPortfolio&theme=tokyonight)](https://github.com/thompsons90/newPortfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thompsons90&repo=nazwood-millworks&theme=tokyonight)](https://github.com/thompsons90/Nazwood-millworks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thompsons90&repo=locate-iss&theme=tokyonight)](https://github.com/thompsons90/locate-iss) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thompsons90&repo=modal-popup&theme=tokyonight)](https://github.com/thompsons90/modal-popup)
 
 ## 📈 GitHub Stats
 
